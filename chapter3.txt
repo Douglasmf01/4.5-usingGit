@@ -1,0 +1,1 @@
+para dar o commit basta escrever git commit -m "mensagem do commit"

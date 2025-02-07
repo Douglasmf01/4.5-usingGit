@@ -1,0 +1,1 @@
+para adicionar a staging area basta colocar git add chapter2.txt ou git add .
