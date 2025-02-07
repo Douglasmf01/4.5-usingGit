@@ -1,0 +1,1 @@
+para iniciar o git basta escrever no terminal git init
