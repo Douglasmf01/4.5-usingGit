@@ -1,0 +1,7 @@
+para trocar de branch basta escrever git checkout english-version, que é o nome do branch
+
+para ver quais branchs eu tenho e qual esta ativo basta escrever git branch
+
+para criar um novo branch basta escrever git branch e o nome do branch
+
+para transformar um branch no main basta escrever git merge e o nome do branch que você quer atualizar. eu preciso estar no main branch e escrever git merge english-version para que a english version va para o main
